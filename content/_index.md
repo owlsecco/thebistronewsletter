@@ -20,9 +20,6 @@ intro_content: >-
     <input type="email" name="email" id="bd-email" />
     <input type="hidden" value="1" name="embed" />
     <input type="submit" value="Subscribe" />
-    <p>
-      <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-    </p>
   </form>
 intro_actions:
   - type: action

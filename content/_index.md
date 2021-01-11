@@ -1,7 +1,12 @@
 ---
 title: Home
 has_intro: true
-intro_content: '## Hi there, Welcome to The Bistro Ke Newsletter'
+intro_content: >-
+  ### Make better, wiser decisions!
+
+  Hi there? Welcome to The Bistro Ke Newsletter where we cover the kenyan stock
+  market, available government tenders, business insights, security practices,
+  emerging trends, cryptocurrencies and more
 intro_actions:
   - type: action
     template: action

@@ -2,11 +2,11 @@
 title: Home
 has_intro: true
 intro_content: >-
-  ### Make better, wiser decisions!
+  #### Make better, wiser decisions in 5 minutes!
 
-  Hi there? Welcome to The Bistro Ke Newsletter where we cover the kenyan stock
-  market, available government tenders, business insights, security practices,
-  emerging trends, cryptocurrencies and more
+  Sign up to The Bistro Ke Daily Newsletter and get kenyan stocks, available
+  government tenders, business insights, security practices, emerging trends,
+  cryptocurrencies and more right into your email.
 intro_actions:
   - type: action
     template: action

@@ -74,9 +74,7 @@ params:
         new_window: true
     has_subscribe: true
     subscribe_title: Subscribe for new updates
-    subscribe_content: >-
-      Subscribe to The Bistro Ke newsletter to receive information on . This
-      monthly email is sent out on the first of every month.
+    subscribe_content: "Subscribe to The Bistro Ke newsletter to receive information on the Kenyan stock market, available tenders, business insights, investment options, emerging trends and more.\_This monthly email is sent out on the first of every month."
     subscribe_action: /subscribe-success
 taxonomies:
   stub: stub

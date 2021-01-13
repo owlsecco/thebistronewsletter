@@ -73,7 +73,7 @@ params:
         icon_class: fa-dev
         new_window: true
     has_subscribe: true
-    subscribe_title: Subscribe
+    subscribe_title: Try It!
     subscribe_content: >-
       Subscribe to The Bistro Ke newsletter to receive information on the Kenyan
       stock market, available tenders, business insights, investment options,

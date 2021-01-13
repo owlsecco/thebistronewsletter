@@ -21,6 +21,9 @@ intro_content: >-
     <input type="hidden" value="1" name="embed" />
     <input type="submit" value="Subscribe" />
   </form>
+
+
+  {{ partial "subscribe_form.html" . }}
 intro_actions: []
 has_more_link: true
 more_link_text: Read more
